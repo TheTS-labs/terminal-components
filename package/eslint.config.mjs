@@ -16,4 +16,5 @@ export default [
     quotes: "double",
     semi: true,
   }),
+  { files: ["**/*.{js,mjs,cjs,ts,jsx,tsx}"] },
 ];
